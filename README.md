@@ -1,5 +1,5 @@
 # LipoRadiomicsFeatures
-Script to compute the features used in the paper "Differentiating well-differentiated liposarcomas from lipimas using a radiomics approach.", M. Vos, M. P. A. Starmans et al., British Journal of Surgery, 2019.
+Script to compute the features used in the paper "Differentiating well-differentiated liposarcomas from lipimas using a radiomics approach.", M. Vos, M. P. A. Starmans et al. 2019 (Submitted).
 
 ## Installation
 Only the PREDICT package, version 2.1.3, and the subsequent dependencies are required
@@ -26,7 +26,7 @@ Using a larger image and/or mask may result in a longer computation time.
 The PyRadiomics package we use requires numpy in the installation, hence
 you may need to install numpy manually beforehand:
 
-    pip install "numpy==1.6.4"
+    pip install "numpy==1.16.4"
 
 From version 2.2.0 and above, PyRadiomics removed a function and might throw
 this error:
