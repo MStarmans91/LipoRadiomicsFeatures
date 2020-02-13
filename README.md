@@ -1,5 +1,5 @@
 # LipoRadiomicsFeatures
-Script to compute the features used in the paper "Differentiating well-differentiated liposarcomas from lipomas using a radiomics approach.", M. Vos, M. P. A. Starmans et al. 2019 (Submitted).
+Script to compute the features used in the paper: Vos, M., Starmans, M. P. A., Timbergen, M. J. M., van der Voort, S. R., Padmos, G. A., Kessels, W., ... & Visser, J.J.. (2019). Radiomics approach to distinguish between well differentiated liposarcomas and lipomas on MRI. The British journal of surgery, 106(13), 1800..
 
 ## Installation
 The feature extraction is done using Python2, and has been tested on version 2.17.11.
